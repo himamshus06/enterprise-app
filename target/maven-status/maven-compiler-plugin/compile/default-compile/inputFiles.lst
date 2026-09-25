@@ -1,6 +1,10 @@
+D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\entity\Account.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\controller\AuthController.java
+D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\repository\AccountRepository.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\security\UserDetailsServiceImpl.java
+D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\exception\ErrorResponse.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\ApiApplication.java
+D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\exception\InsufficientFundsException.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\dto\SignupRequest.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\security\JwtAuthenticationEntryPoint.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\entity\User.java
@@ -9,9 +13,12 @@ D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\security\JwtAuthent
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\controller\UserController.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\dto\JwtResponse.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\security\SecurityConfig.java
+D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\service\AccountService.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\service\UserService.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\repository\UserRepository.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\security\JwtUtils.java
+D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\controller\AccountController.java
+D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\exception\GlobalExceptionHandler.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\dto\LoginRequest.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\dto\UserRequest.java
 D:\spring-boot-api\RESTful-API\src\main\java\com\example\api\entity\Post.java
